@@ -1,0 +1,66 @@
+* {
+    font-family: sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    width: 100%;
+}
+
+button {
+    border-radius: 30px;
+    width: 200px;
+    background-color: #42454D;
+    border: 0px;
+    box-shadow: 0px 0px 10px black;
+}
+
+.title {
+    font-family: 'Slackey', sans-serif;
+    font-size: 32px;
+}
+
+.h1, .h1 *, button {
+    font-family: 'Passion One', sans-serif;
+    font-size: 20px;
+}
+
+.liner-parent {
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.liner {
+    color: #22252D;
+    text-overflow: clip;
+}
+
+#main_div {
+    position: relative;
+    top: 10px;
+    padding: 20px;
+    margin: 40px;
+    height: 100%;
+    width: 400px;
+    /* border: 2px solid black; */
+    text-align: center;
+    background-color: #22252D;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px black;
+}
+
+#main_div * {
+    color: white;
+}
+
+#main_div textarea {
+    color: black;
+}
