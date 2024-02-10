@@ -1,2 +1,2 @@
-# Welcome to my GitHub Pages website
-I'll find something to do with this
+# Welcome!
+This is my GitHub pages website. There's not much here for now, but I'll find something to do with this later.
